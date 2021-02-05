@@ -31,7 +31,7 @@ for i in range(classes):
             labels.append(i)
         except Exception as e:
             print(e)
-#hocam burada yukarda tanımladığım kısımdaki path i oluşturuyorum,daha resimlerimi 30 a 30 luk 
+#burada yukarda tanımladığım kısımdaki path i oluşturuyorum,daha resimlerimi 30 a 30 luk 
 #hallerine çeviriyorum zaten yoksa modelimi çok zorlamış olurum,yani cnn modelime girmeye uygun hale
 #getiriyorum,train datamın içindeki bütün resimlere bunu yapıyorum           
 
